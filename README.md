@@ -7,8 +7,8 @@ This is a possible solution to the following problem. It is an exercise in funct
 3. It locks after 3
 4. It allows you to withdraw up until Overdraught
 5. It tells you your balance when you withdraw
- 
 
-Use Prompt to make it ask the questions
-Use number keys instead of atm screen keys
-See what you can do!!
+
+* Use Prompt to make it ask the questions
+* Use number keys instead of atm screen keys
+* See what you can do!!
